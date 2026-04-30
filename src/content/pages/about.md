@@ -68,5 +68,3 @@ Color Theory
 English (Native)
 
 French (Biliterate)
-
-<a href="https://unsplash.com/@tomcrewceramics" target="_blank">Image credits - Tom Crew</a>

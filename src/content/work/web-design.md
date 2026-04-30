@@ -1,6 +1,6 @@
 ---
 templateKey: work-sub-page
-thumbnail: /img/clay-images-6.jpg
+thumbnail: /img/Splitli-Mockup-1.jpg
 date: 2023-01-03T15:04:10.000Z
 title: Web Design
 description: A collection of responsive websites focused on clean layouts, modern aesthetics, and intuitive user experiences. Each project emphasizes clarity, accessibility, and purposeful design.
