@@ -35,7 +35,7 @@ export async function getStaticPaths() {
         items = sortedNews;
         baseSlug = "news";
       } else if (entry.data.templateKey === "work-page") {
-        items = sortedWork.filter(item => !['earthen-textures', 'minimal-forms', 'sculpted-vessels'].includes(item.slug));
+        items = sortedWork.filter(item => ['web-design', 'ui-ux-design', 'other-design'].includes(item.slug));
         baseSlug = "work";
       } else if (entry.data.templateKey === "exhibitions-page") {
         // maps to sold collection

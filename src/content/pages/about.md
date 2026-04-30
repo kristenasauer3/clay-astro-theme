@@ -63,10 +63,10 @@ Color Theory
 
 ---
 
-#### Language
+#### Languages
 
 English (Native)
 
-French (Basic)
+French (Biliterate)
 
 <a href="https://unsplash.com/@tomcrewceramics" target="_blank">Image credits - Tom Crew</a>
