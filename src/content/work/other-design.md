@@ -1,6 +1,6 @@
 ---
 templateKey: work-sub-page
-thumbnail: /img/clay-images-11.jpg
+thumbnail: /img/Scoop-Strong-Cover.jpg
 date: 2023-01-01T15:04:10.000Z
 title: Other Design
 description: A range of graphic design work including branding, print, and visual exploration. These projects highlight versatility in style, concept development, and visual communication.

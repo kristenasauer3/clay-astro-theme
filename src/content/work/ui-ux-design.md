@@ -1,6 +1,6 @@
 ---
 templateKey: work-sub-page
-thumbnail: p/img/EE Mockup2.pdf
+thumbnail: /img/EE Mock1.jpg
 date: 2023-01-02T15:04:10.000Z
 title: UI/UX Design
 description: User-centered interface and experience design exploring structure, usability, and interaction. These projects focus on creating seamless, engaging digital experiences through thoughtful design decisions.
