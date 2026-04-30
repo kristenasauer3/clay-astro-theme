@@ -143,7 +143,7 @@ collections:
           - { label: "Description", name: "description", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
 
-      - file: "src/content/pages/bio.md"
+      - file: "src/content/pages/about.md"
         label: "Bio"
         name: "bio"
         fields:
