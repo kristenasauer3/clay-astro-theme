@@ -9,13 +9,13 @@
 :root {
 
     /* Colours */
-    --color-primary: #3eb0ef;
+    --color-primary: #FD43A2;
     --color-base: #131313;
     --color-border: #ddd;
     --color-bg: #ffffff;
 
     /* Fonts */
-    --font-sans-serif: 'Futura', 'League Spartan', 'Trebuchet MS', Arial, sans-serif;
+    --font-sans-serif: 'Inter', 'League Spartan', 'Trebuchet MS', Arial, sans-serif;
     --font-serif: 'EB Garamond', Georgia, Times, serif;
     --font-mono: Menlo, Courier, monospace;
     --font-light: 100;
@@ -38,7 +38,7 @@
 }
 
 [data-theme='dark'] {
-    --color-primary: #5ec2ff;
+    --color-primary: #ff7abf;
     --color-base: #e0e0e0;
     --color-border: #444;
     --color-bg: #121212;

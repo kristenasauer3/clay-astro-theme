@@ -214,13 +214,14 @@ footer.site-foot a {
 
 .site-head-logo:hover {
     text-decoration: none;
+    transform: scale(1.50);
 }
 
 .site-head-logo img {
     display: block;
     margin-top: 2px;
     width: auto;
-    height: 28px;
+    height: 56px;
 }
 
 .site-head-right {
